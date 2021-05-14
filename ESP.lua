@@ -16,8 +16,8 @@ local Tracer_Transparency = 1
 local Autothickness = true
 
 local Team_Check = true
-local red = Color3.fromRGB(227, 52, 52)
-local green = Color3.fromRGB(88, 217, 24)
+local red = Color3.fromRGB(255, 0, 0)
+local green = Color3.fromRGB(0, 255, 0)
 
 local function NewLine()
     local line = Drawing.new("Line")
